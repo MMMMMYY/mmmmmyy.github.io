@@ -38,6 +38,17 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS'24</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Unveiling Intellectual Property Vulnerabilities of GAN-Based Distributed Machine Learning through Model Extraction Attacks](https://dl.acm.org/doi/abs/10.1145/3543507.3583542)
+
+Mengyao Ma, Shuofeng Liu, Mahawaga Arachchige Pathum Chamikara, Mohan Baruwal Chhetri, Guangdong Bai.
+ACM International Conference on Information and Knowledge Management (CIKM), Jul. 2024.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS'24</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Uncovering Gradient Inversion Risks in Practical Language Model Training](https://www.sigsac.org/ccs/CCS2024/)
 
 Xinguo Feng, Zhongkui Ma, Zihan Wang, Chegne Eu Joe, **Mengyao Ma**, Alsharif Abuadbba, Guangdong Bai.
@@ -51,8 +62,8 @@ ACM Computer and Communications Security Conference (CCS), Aug. 2024.
 
 [LoDen: Making Every Client in Federated Learning a Defender Against the Poisoning Membership Inference Attacks](https://dl.acm.org/doi/10.1145/3579856.3590334)
 
-Mengyao Ma, Yanjun Zhang, Pathum Chamikara Mahawaga Arachchige, Leo Yu Zhang, Mohan Baruwal Chhetri, Guangdong Bai.
-International Conference on Formal Engineering Methods (ICFEM), Nov. 2023.
+**Mengyao Ma**, Yanjun Zhang, Pathum Chamikara Mahawaga Arachchige, Leo Yu Zhang, Mohan Baruwal Chhetri, Guangdong Bai.
+ACM ASIA Conference on Computer and Communications Security (AsiaCCS), Apr. 2023.
 </div>
 </div>
 
@@ -63,7 +74,7 @@ International Conference on Formal Engineering Methods (ICFEM), Nov. 2023.
 [Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://mark-h-meng.github.io/publications/attachments/ma2023formalizing.pdf)
 
 Zhongkui Ma, Xinguo Feng, Zihan Wang, Shuofeng Liu, **Mengyao Ma**, Hao Guan, Mark Huasong Meng.
-International Conference on Formal Engineering Methods (ICFEM), Nov. 2023.
+International Conference on Formal Engineering Methods (ICFEM), Aug. 2023.
 </div>
 </div>
 
