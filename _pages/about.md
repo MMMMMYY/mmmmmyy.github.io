@@ -23,20 +23,47 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08*: &nbsp;🎉🎉 Our paper on privacy leakage of language models is accepted by CCS’24!
+- *2024.07*: &nbsp;🎉🎉 I am invited to be a reviewer of ACM CIKM'24!
+- *2024.07*: &nbsp;🎉🎉 Our paper on unveiling IP vulnerabilities of GAN-based distributed ML is accepted by CIKM’24!
+- *2024.07*: &nbsp;🎉🎉 I am invited to be the IEEE TSC reviewer!
+- *2023.08*: &nbsp;🎉🎉 Our paper on formalizing neural network perturbation is accepted by ICFEM’23!
+- *2023.06*: &nbsp;🎉🎉 I am invited to be an AE reviewer of NDSS'24!
+- *2023.06*: &nbsp;🎉🎉 I pass my first year progress review confirmation!
+- *2023.05*: &nbsp;🎉🎉 Our paper on defending membership inference attack in FL is accepted by AsiaCCS'23!
+- *2022.04*: &nbsp;🎉🎉 I become a Ph.D. student at the Univeristy of Queensland!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS'24</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Uncovering Gradient Inversion Risks in Practical Language Model Training](https://www.sigsac.org/ccs/CCS2024/)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Xinguo Feng, Zhongkui Ma, Zihan Wang, Chegne Eu Joe, **Mengyao Ma**, Alsharif Abuadbba, Guangdong Bai.
+ACM Computer and Communications Security Conference (CCS), Aug. 2024.
+</div>
+</div>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICFEM'23</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LoDen: Making Every Client in Federated Learning a Defender Against the Poisoning Membership Inference Attacks](https://dl.acm.org/doi/10.1145/3579856.3590334)
+
+Mengyao Ma, Yanjun Zhang, Pathum Chamikara Mahawaga Arachchige, Leo Yu Zhang, Mohan Baruwal Chhetri, Guangdong Bai.
+International Conference on Formal Engineering Methods (ICFEM), Nov. 2023.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICFEM'23</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://mark-h-meng.github.io/publications/attachments/ma2023formalizing.pdf)
+
+Zhongkui Ma, Xinguo Feng, Zihan Wang, Shuofeng Liu, **Mengyao Ma**, Hao Guan, Mark Huasong Meng.
+International Conference on Formal Engineering Methods (ICFEM), Nov. 2023.
 </div>
 </div>
 
