@@ -33,9 +33,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.05*: &nbsp;🎉🎉 Our paper on defending membership inference attack in FL is accepted by AsiaCCS'23!
 - *2022.04*: &nbsp;🎉🎉 I become a Ph.D. student at the Univeristy of Queensland!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS'24</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'24</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unveiling Intellectual Property Vulnerabilities of GAN-Based Distributed Machine Learning through Model Extraction Attacks](https://dl.acm.org/doi/abs/10.1145/3543507.3583542)
@@ -57,7 +57,7 @@ ACM Computer and Communications Security Conference (CCS), Aug. 2024.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICFEM'23</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AsiaCCS'23</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LoDen: Making Every Client in Federated Learning a Defender Against the Poisoning Membership Inference Attacks](https://dl.acm.org/doi/10.1145/3579856.3590334)
@@ -78,19 +78,11 @@ International Conference on Formal Engineering Methods (ICFEM), Aug. 2023.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Awards
+- *2024.09* I am successful in applying for $1000 Travel Grant for CIKM'24, Boise, USA!
+- *2022.01* I am successful in applying for CSIRO’s Data61 full scholarship with top-up!
+- *2021.11* I win the Dean's Commendation for Academic Excellence!
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
