@@ -21,6 +21,7 @@ My research interests include Trustworthy AI and Privacy-preserving in FL. <a hr
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 I am invited to be a reviewer of PAKDD'25!
 - *2024.08*: &nbsp;🎉🎉 Our paper on privacy leakage of language models is accepted by CCS’24!
 - *2024.07*: &nbsp;🎉🎉 I am invited to be a reviewer of ACM CIKM'24!
 - *2024.07*: &nbsp;🎉🎉 Our paper on unveiling IP vulnerabilities of GAN-based distributed ML is accepted by CIKM’24!
