@@ -30,14 +30,14 @@ My research interests include Trustworthy AI and Privacy-preserving in FL. <a hr
 - *2023.06*: &nbsp;🎉🎉 I am invited to be an AE reviewer of NDSS'24!
 - *2023.06*: &nbsp;🎉🎉 I pass my first year progress review confirmation!
 - *2023.05*: &nbsp;🎉🎉 Our paper on defending membership inference attack in FL is accepted by AsiaCCS'23!
-- *2022.04*: &nbsp;🎉🎉 I become a Ph.D. student at the Univeristy of Queensland!
+- *2022.04*: &nbsp;🎉🎉 I become a Ph.D. student at the University of Queensland!
 
 # 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'24</div><img src='images/MoEx.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Unveiling Intellectual Property Vulnerabilities of GAN-Based Distributed Machine Learning through Model Extraction Attacks](https://dl.acm.org/doi/abs/10.1145/3543507.3583542)
+[Unveiling Intellectual Property Vulnerabilities of GAN-Based Distributed Machine Learning through Model Extraction Attacks](https://dl.acm.org/doi/10.1145/3627673.3679850)
 
 **Mengyao Ma**, Shuofeng Liu, Mahawaga Arachchige Pathum Chamikara, Mohan Baruwal Chhetri, Guangdong Bai.
 ACM International Conference on Information and Knowledge Management (CIKM), Jul. 2024.
@@ -70,7 +70,7 @@ ACM ASIA Conference on Computer and Communications Security (AsiaCCS), Apr. 2023
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICFEM'23</div><img src='images/attack_example.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://mark-h-meng.github.io/publications/attachments/ma2023formalizing.pdf)
+[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://dl.acm.org/doi/10.1007/978-981-99-7584-6_7)
 
 Zhongkui Ma, Xinguo Feng, Zihan Wang, Shuofeng Liu, **Mengyao Ma**, Hao Guan, Mark Huasong Meng.
 International Conference on Formal Engineering Methods (ICFEM), Aug. 2023.
