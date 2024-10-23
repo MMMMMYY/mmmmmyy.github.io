@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interests include Trustworthy AI in FL and Privacy-preserving. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include Trustworthy AI and Privacy-preserving in FL.  <a href='https://scholar.google.com/citations?user=zSRpz94AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -35,7 +33,7 @@ My research interests include Trustworthy AI in FL and Privacy-preserving. I hav
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'24</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'24</div><img src='images/MoEx.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unveiling Intellectual Property Vulnerabilities of GAN-Based Distributed Machine Learning through Model Extraction Attacks](https://dl.acm.org/doi/abs/10.1145/3543507.3583542)
@@ -46,7 +44,7 @@ ACM International Conference on Information and Knowledge Management (CIKM), Jul
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS'24</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS'24</div><img src='images/Grab.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uncovering Gradient Inversion Risks in Practical Language Model Training](https://www.sigsac.org/ccs/CCS2024/)
@@ -57,7 +55,7 @@ ACM Computer and Communications Security Conference (CCS), Aug. 2024.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AsiaCCS'23</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AsiaCCS'23</div><img src='images/LoDen.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LoDen: Making Every Client in Federated Learning a Defender Against the Poisoning Membership Inference Attacks](https://dl.acm.org/doi/10.1145/3579856.3590334)
@@ -68,7 +66,7 @@ ACM ASIA Conference on Computer and Communications Security (AsiaCCS), Apr. 2023
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICFEM'23</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICFEM'23</div><img src='images/attack_example.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://mark-h-meng.github.io/publications/attachments/ma2023formalizing.pdf)
