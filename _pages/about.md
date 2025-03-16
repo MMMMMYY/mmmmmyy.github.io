@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interests include Trustworthy AI and Privacy-preserving in FL. <a href="https://scholar.google.com/citations?user=zSRpz94AAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&amp;url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations" /></a>.
+My research interests include Trustworthy AI and Privacy-preserving in FL. 
 
 
 # 🔥 News
