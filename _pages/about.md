@@ -17,22 +17,45 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interests include Trustworthy AI and Privacy-preserving in FL. <a href='https://scholar.google.com/citations?user=zSRpz94AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include Trustworthy AI and Privacy-preserving in FL. <a href="https://scholar.google.com/citations?user=zSRpz94AAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&amp;url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations" /></a>.
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 Two papers on jailbreaking on T2I models and poisoning attack in CFL are accepted by Oakland’25!
+- *2024.12*: &nbsp;🎉🎉 I am invited to be an AE reviewer of USENIX Security'25!
+- *2024.12*: &nbsp;🎉🎉 I am invited to be a reviewer of IEEE TDSC, TIFS, TSC, and Neural Network!
 - *2024.10*: &nbsp;🎉🎉 I am invited to be a reviewer of PAKDD'25!
 - *2024.08*: &nbsp;🎉🎉 Our paper on privacy leakage of language models is accepted by CCS’24!
 - *2024.07*: &nbsp;🎉🎉 I am invited to be a reviewer of ACM CIKM'24!
 - *2024.07*: &nbsp;🎉🎉 Our paper on unveiling IP vulnerabilities of GAN-based distributed ML is accepted by CIKM’24!
-- *2024.07*: &nbsp;🎉🎉 I am invited to be the IEEE TSC reviewer!
 - *2023.08*: &nbsp;🎉🎉 Our paper on formalizing neural network perturbation is accepted by ICFEM’23!
 - *2023.06*: &nbsp;🎉🎉 I am invited to be an AE reviewer of NDSS'24!
-- *2023.06*: &nbsp;🎉🎉 I pass my first year progress review confirmation!
+- *2023.06*: &nbsp;🎉🎉 I pass my first-year progress review confirmation!
 - *2023.05*: &nbsp;🎉🎉 Our paper on defending membership inference attack in FL is accepted by AsiaCCS'23!
 - *2022.04*: &nbsp;🎉🎉 I become a Ph.D. student at the University of Queensland!
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P'25'24</div><img src='images/ModX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts]
+
+Shuofeng Liu, **Mengyao Ma**, Minhui Xue, Guangdong Bai.
+IEEE Symposium on Security and Privacy (Oakland), 2025.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P'25</div><img src='images/poisoning_CFL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated
+Learning]
+
+Viet Vo, **Mengyao Ma**, Guangdong Bai, Ryan Ko, Surya Nepal.
+IEEE Symposium on Security and Privacy (Oakland), 2025.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'24</div><img src='images/MoEx.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
