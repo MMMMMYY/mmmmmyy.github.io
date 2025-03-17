@@ -42,7 +42,7 @@ My research interests include Trustworthy AI and Privacy-preserving in FL.
        <div class="badge">S&P'25</div><img src='images/modx.png' alt="sym" width="100%"></div></div>
  <div class='paper-box-text' markdown="1">
  
- [Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts]
+ [Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts](https://sp2025.ieee-security.org/)
  
  Shuofeng Liu, **Mengyao Ma**, Minhui Xue, Guangdong Bai.
  IEEE Symposium on Security and Privacy (Oakland), 2025.
@@ -53,7 +53,7 @@ My research interests include Trustworthy AI and Privacy-preserving in FL.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P'25</div><img src='images/cfl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated
+[Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated(https://sp2025.ieee-security.org/)
 Learning]
 
 Viet Vo, **Mengyao Ma**, Guangdong Bai, Ryan Ko, Surya Nepal.
