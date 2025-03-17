@@ -53,8 +53,7 @@ My research interests include Trustworthy AI and Privacy-preserving in FL.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P'25</div><img src='images/cfl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated(https://sp2025.ieee-security.org/)
-Learning]
+[Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated Learning](https://sp2025.ieee-security.org/)
 
 Viet Vo, **Mengyao Ma**, Guangdong Bai, Ryan Ko, Surya Nepal.
 IEEE Symposium on Security and Privacy (Oakland), 2025.
