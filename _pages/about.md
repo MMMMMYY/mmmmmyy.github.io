@@ -35,7 +35,7 @@ My research interests include Trustworthy AI and Privacy-preserving in FL.
 - *2022.04*: &nbsp;🎉🎉 I become a Ph.D. student at the University of Queensland!
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P'25'24</div><img src='images/modx.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P'25</div><img src='images/modx.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts]
