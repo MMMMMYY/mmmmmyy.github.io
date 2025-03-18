@@ -21,7 +21,7 @@ My research interests include Trustworthy AI and Privacy-preserving in FL.
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Two papers on jailbreaking on T2I models and poisoning attack in CFL are accepted by Oakland’25!
+- *2025.03*: &nbsp;🎉🎉 Two papers on jailbreaking on T2I models and poisoning attack in CFL are accepted by Oakland’25!
 - *2024.12*: &nbsp;🎉🎉 I am invited to be an AE reviewer of USENIX Security'25!
 - *2024.12*: &nbsp;🎉🎉 I am invited to be a reviewer of IEEE TDSC, TIFS, TSC, and Neural Network!
 - *2024.10*: &nbsp;🎉🎉 I am invited to be a reviewer of PAKDD'25!
