@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interests include Trustworthy AI and Privacy-preserving in FL. 
+My research interests focus on **Trustworthy AI, Federated Learning (FL), and AI Security**, particularly in **model extraction attacks, poisoning attacks, and privacy-preserving mechanisms**.
 
 
 # 🔥 News
@@ -105,10 +105,15 @@ International Conference on Formal Engineering Methods (ICFEM), Aug. 2023.
 </div>
 
 
-# 🎖 Awards
-- *2024.09* I am successful in applying for $1000 Travel Grant for CIKM'24, Boise, USA!
-- *2022.01* I am successful in applying for CSIRO’s Data61 full scholarship with top-up!
-- *2021.11* I win the Dean's Commendation for Academic Excellence!
+## 🎖 Awards  
+- *2024.09*: 🏆 **SIGIR Travel Grant** for presenting at CIKM'24, Boise, USA.  
+- *2022.01*: 🎓 **CSIRO’s Data61 Full Scholarship** with top-up funding.  
+- *2021.11*: 🏅 **Dean's Commendation for Academic Excellence** at UQ.
 
-  
+
+# 📌 Service  
+- **Web Chair**: IWQoS 2025.  
+- **Leader of Local Committee**: ICFEM 2023.  
+- **AE Reviewer**: USENIX Security 2025, NDSS 2024.  
+- **Reviewer**: PAKDD 2025, IEEE TDSC, TSC, TIFS, Neural Networks.  
 
