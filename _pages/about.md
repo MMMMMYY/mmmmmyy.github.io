@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interests focus on **Trustworthy AI, Federated Learning (FL), and AI Security**, particularly in **model extraction attacks, poisoning attacks, and privacy-preserving mechanisms**.
+<!-- My research interests focus on **Trustworthy AI, Federated Learning (FL), and AI Security**, particularly in **model extraction attacks, poisoning attacks, and privacy-preserving mechanisms**. -->
+My research interests focus on Machine Learning (ML) and Federated Learning (FL).
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Two papers on vulnerability disclosure on T2I models and poisoning attack in CFL are accepted by Oakland’25!
+- *2025.03*: &nbsp;🎉🎉 Two papers on vulnerability disclosure on T2I models and vunerability exploration in CFL are accepted by Oakland’25!
 - *2024.12*: &nbsp;🎉🎉 I am invited to be an AE reviewer of USENIX Security'25!
 - *2024.12*: &nbsp;🎉🎉 I am invited to be a reviewer of IEEE TDSC, TIFS, TSC, and Neural Network!
 - *2024.10*: &nbsp;🎉🎉 I am invited to be a reviewer of PAKDD'25!
@@ -31,7 +32,7 @@ My research interests focus on **Trustworthy AI, Federated Learning (FL), and AI
 - *2023.08*: &nbsp;🎉🎉 Our paper on formalizing neural network perturbation is accepted by ICFEM’23!
 - *2023.06*: &nbsp;🎉🎉 I am invited to be an AE reviewer of NDSS'24!
 - *2023.06*: &nbsp;🎉🎉 I pass my first-year progress review confirmation!
-- *2023.05*: &nbsp;🎉🎉 Our paper on defending membership inference attack in FL is accepted by AsiaCCS'23!
+- *2023.05*: &nbsp;🎉🎉 Our paper on mitigating membership inference threats in FL is accepted by AsiaCCS'23!
 - *2022.04*: &nbsp;🎉🎉 I become a Ph.D. student at the University of Queensland!
 
 # 📝 Selected Publications 
