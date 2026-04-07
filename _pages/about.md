@@ -18,10 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- My research interests focus on **Trustworthy AI, Federated Learning (FL), and AI Security**, particularly in **model extraction attacks, poisoning attacks, and privacy-preserving mechanisms**. -->
-My research interests focus on Machine Learning (ML) and Federated Learning (FL).
+<!-- My research interests focus on Machine Learning (ML) and Federated Learning (FL). -->
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Our paper on RL-guided reconstruction attack against machine unlearning is accepted by ICLR’26!
+- *2026.01*: &nbsp;🎉🎉 Our paper on backdoor attack mitigation is accepted by WWW’26!
+- *2025.12*: &nbsp;🎉🎉 Our paper on client-side detection against poisoning attacks is accepted by AsiaCCS’26!
 - *2025.03*: &nbsp;🎉🎉 Two papers on vulnerability disclosure on T2I models and vunerability exploration in CFL are accepted by Oakland’25!
 - *2024.12*: &nbsp;🎉🎉 I am invited to be an AE reviewer of USENIX Security'25!
 - *2024.12*: &nbsp;🎉🎉 I am invited to be a reviewer of IEEE TDSC, TIFS, TSC, and Neural Network!
