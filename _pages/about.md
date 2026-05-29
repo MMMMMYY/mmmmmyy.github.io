@@ -49,7 +49,7 @@ redirect_from:
  [ReTrace: Reinforcement Learning-Guided Reconstruction Attacks on Machine Unlearning](https://openreview.net/pdf?id=wKi4Jeqqrb)
  
 **Mengyao Ma**, Shuofeng Liu, Minhui Xue, Surya Nepal, Guangdong Bai.
- The Fourteenth International Conference on Learning Representations, 2026.
+ The Fourteenth International Conference on Learning Representations (ICLR), 2026.
  </div>
  </div>
 
@@ -62,7 +62,7 @@ redirect_from:
  [ClieND: Client-Side Neuron-Level Detection against Poisoning Attacks on Cross-Silo Federated Learning](/image/ClienD_paper.pdf)
  
  **Mengyao Ma**, Shuofeng Liu, Viet Vo, Minghong Fang, Surya Nepal, Guangdong Bai.
- IEEE Symposium on Security and Privacy (Oakland), 2025.
+ ACM ASIA Conference on Computer and Communications Security (AsiaCCS), Jun. 2026.
  </div>
  </div>
 
@@ -86,7 +86,7 @@ redirect_from:
 [Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated Learning](https://sp2025.ieee-security.org/)
 
 Viet Vo, **Mengyao Ma**, Guangdong Bai, Ryan Ko, Surya Nepal.
-ACM ASIA Conference on Computer and Communications Security (AsiaCCS), Jun. 2026.
+IEEE Symposium on Security and Privacy (Oakland),  Apr. 2025.
 </div>
 </div>
 
