@@ -43,24 +43,50 @@ redirect_from:
 <div class='paper-box'>
    <div class='paper-box-image'>
      <div>
+       <div class="badge">ICLR'26</div><img src='images/workflow.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box-text' markdown="1">
+ 
+ [ReTrace: Reinforcement Learning-Guided Reconstruction Attacks on Machine Unlearning](https://openreview.net/pdf?id=wKi4Jeqqrb)
+ 
+**Mengyao Ma**, Shuofeng Liu, Minhui Xue, Surya Nepal, Guangdong Bai.
+ The Fourteenth International Conference on Learning Representations, 2026.
+ </div>
+ </div>
+
+ <div class='paper-box'>
+   <div class='paper-box-image'>
+     <div>
+       <div class="badge">AsiaCCS'26</div><img src='images/modx.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box-text' markdown="1">
+ 
+ [ClieND: Client-Side Neuron-Level Detection against Poisoning Attacks on Cross-Silo Federated Learning](/image/ClienD_paper.pdf)
+ 
+ **Mengyao Ma**, Shuofeng Liu, Viet Vo, Minghong Fang, Surya Nepal, Guangdong Bai.
+ IEEE Symposium on Security and Privacy (Oakland), 2025.
+ </div>
+ </div>
+
+<div class='paper-box'>
+   <div class='paper-box-image'>
+     <div>
        <div class="badge">S&P'25</div><img src='images/modx.png' alt="sym" width="100%"></div></div>
  <div class='paper-box-text' markdown="1">
  
  [Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts](https://sp2025.ieee-security.org/)
  
  Shuofeng Liu, **Mengyao Ma**, Minhui Xue, Guangdong Bai.
- IEEE Symposium on Security and Privacy (Oakland), 2025.
+ IEEE Symposium on Security and Privacy (Oakland), Apr. 2025.
  </div>
  </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P'25</div><img src='images/cfl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AsiaCCS'26</div><img src='images/workflow.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated Learning](https://sp2025.ieee-security.org/)
 
 Viet Vo, **Mengyao Ma**, Guangdong Bai, Ryan Ko, Surya Nepal.
-IEEE Symposium on Security and Privacy (Oakland), 2025.
+ACM ASIA Conference on Computer and Communications Security (AsiaCCS), Jun. 2026.
 </div>
 </div>
 
