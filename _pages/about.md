@@ -56,7 +56,7 @@ redirect_from:
  <div class='paper-box'>
    <div class='paper-box-image'>
      <div>
-       <div class="badge">AsiaCCS'26</div><img src='images/workflow.pdf' alt="sym" width="100%"></div></div>
+       <div class="badge">AsiaCCS'26</div><img src='images/workflow_ClienD.png' alt="sym" width="100%"></div></div>
  <div class='paper-box-text' markdown="1">
  
  [ClieND: Client-Side Neuron-Level Detection against Poisoning Attacks on Cross-Silo Federated Learning](/images/ClienD_paper.pdf)
