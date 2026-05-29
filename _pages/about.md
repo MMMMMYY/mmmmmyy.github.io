@@ -59,7 +59,7 @@ redirect_from:
        <div class="badge">AsiaCCS'26</div><img src='images/workflow.pdf' alt="sym" width="100%"></div></div>
  <div class='paper-box-text' markdown="1">
  
- [ClieND: Client-Side Neuron-Level Detection against Poisoning Attacks on Cross-Silo Federated Learning](/image/ClienD_paper.pdf)
+ [ClieND: Client-Side Neuron-Level Detection against Poisoning Attacks on Cross-Silo Federated Learning](/images/ClienD_paper.pdf)
  
  **Mengyao Ma**, Shuofeng Liu, Viet Vo, Minghong Fang, Surya Nepal, Guangdong Bai.
  ACM ASIA Conference on Computer and Communications Security (AsiaCCS), Jun. 2026.
