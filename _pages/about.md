@@ -56,7 +56,7 @@ redirect_from:
  <div class='paper-box'>
    <div class='paper-box-image'>
      <div>
-       <div class="badge">AsiaCCS'26</div><img src='images/modx.png' alt="sym" width="100%"></div></div>
+       <div class="badge">AsiaCCS'26</div><img src='images/workflow.pdf' alt="sym" width="100%"></div></div>
  <div class='paper-box-text' markdown="1">
  
  [ClieND: Client-Side Neuron-Level Detection against Poisoning Attacks on Cross-Silo Federated Learning](/image/ClienD_paper.pdf)
@@ -80,7 +80,7 @@ redirect_from:
  </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AsiaCCS'26</div><img src='images/workflow.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P'25</div><img src='images/cfl.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated Learning](https://sp2025.ieee-security.org/)
