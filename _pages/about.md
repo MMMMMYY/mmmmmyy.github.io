@@ -80,7 +80,7 @@ redirect_from:
  </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P'25</div><img src='images/cfl.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P'25</div><img src='images/cfl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated Learning](https://sp2025.ieee-security.org/)
@@ -146,4 +146,3 @@ International Conference on Formal Engineering Methods (ICFEM), Aug. 2023.
 - **Leader of Local Committee**: ICFEM 2023.  
 - **AE Reviewer**: USENIX Security 2025, NDSS 2024.  
 - **Reviewer**: PAKDD 2025, IEEE TDSC, TSC, TIFS, Neural Networks.  
-
