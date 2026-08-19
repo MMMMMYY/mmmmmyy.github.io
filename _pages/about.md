@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- My research interests focus on **Trustworthy AI, Federated Learning (FL), and AI Security**, particularly in **model extraction attacks, poisoning attacks, and privacy-preserving mechanisms**. -->
-<!-- My research interests focus on Machine Learning (ML) and Federated Learning (FL). -->
+My research interests focus on **Machine Learning (ML), Federated Learning (FL), and AI Safety Testing**.
 
 
 # 🔥 News

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "MMMMMY"
-description              : "I am a third-year Ph.D. stduent at the University of Queensland, under the supervision of Assoc Prof. Guangdong Bai. I received the Master's degree of Data science in the University of Queensland in 2022. "
+description              : "I joined UNSW Sydney as a Postdoctoral Research Fellow in March 2026, under the supervision of Prof. Yulei Sui. Previously, I was a Ph.D. student at the University of Queensland under the supervision of Assoc. Prof. Guangdong Bai. I received my Master's degree in Data Science from the University of Queensland in 2022."
 repository               : "MMMMMYY/mmy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mengyao Ma"
   avatar           : "images/mengyao.png"
-  bio              : "The University of Queensland"
-  location         : "Brisbane, Australia"
+  bio              : "UNSW Sydney"
+  location         : "Sydney, Australia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zSRpz94AAAAJ"
